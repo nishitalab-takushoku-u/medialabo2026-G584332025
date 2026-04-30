@@ -1,0 +1,22 @@
+li{
+    list-style: none;
+    font-size:200%;
+}
+*{
+    text-align:center;
+}
+h1{
+    font-size:300%;
+}
+html{
+    background-color:lightgreen;
+}
+body{
+    background-color:gray;
+    margin:30px 150px;
+    padding:10px;
+    color:rgba(255, 255, 255, 0.873);
+}
+img{
+    width: 300px;
+}

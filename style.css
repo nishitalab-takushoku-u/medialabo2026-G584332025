@@ -1,0 +1,25 @@
+h1{
+    color:green;
+    background: linear-gradient(to right,blue,blue,white);
+}
+h2{
+    border-left: 10px lightgray solid;
+    color:hotpink;
+    background: linear-gradient(to right, cyan, white);
+    padding-left: 20px;
+}
+h3{
+    border:5px solid black;
+    padding: 10px 10px 10px 20px ;
+
+}
+a:hover{
+    font-size: 200%;
+    text-decoration: none;
+}
+body{
+    padding-left:10px;
+}
+p {
+    padding-left: 30px;
+}
